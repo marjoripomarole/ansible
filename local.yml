@@ -11,3 +11,7 @@
       - kubectl
       - python3
       - pip
+      - vlc
+      - vim
+      - curl
+      - chromium-browser
