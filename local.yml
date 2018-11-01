@@ -7,3 +7,7 @@
       - htop
       - tmux
       - zsh
+      - linuxbrew-wrapper
+      - kubectl
+      - python3
+      - pip
