@@ -18,3 +18,4 @@
       - vim
       - curl
       - chromium-browser
+      - nodejs
